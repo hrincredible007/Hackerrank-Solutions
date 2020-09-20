@@ -2,4 +2,4 @@
 
 
 
-Solution to the questions
+Solution to the questions in c ,python and java programming languages.
